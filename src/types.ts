@@ -1,5 +1,4 @@
 export type Person = {
-  id: string;
   homeworld: string;
   name: string;
   url: string;
