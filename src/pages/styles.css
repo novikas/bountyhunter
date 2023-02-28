@@ -1,0 +1,20 @@
+.container {
+  padding: 8px;
+}
+
+.listContainer {
+  width: 300px;
+}
+
+.listItem {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.listItem:hover {
+  background-color: aqua;
+}
+
+.row {
+  padding: 8px;
+}

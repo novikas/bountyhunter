@@ -11,16 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-.listContainer {
-  width: 300px;
-}
-
-.listItem {
-  padding: 8px;
-  cursor: pointer;
-}
-
-.listItem:hover {
-  background-color: aqua;
-}
